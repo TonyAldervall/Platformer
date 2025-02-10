@@ -1,3 +1,4 @@
 # Platformer
  project for learning Unity
-![image](https://github.com/user-attachments/assets/22b39949-9bb4-4568-89b6-4d93cb5b7c88)
+![image](https://github.com/user-attachments/assets/8e223a46-5881-4e6d-91b7-346013e5b546)
+
